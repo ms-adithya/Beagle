@@ -1,0 +1,42 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  padding: 12px;
+}
+.section1 {
+  padding: 12px;
+  border: 1px solid;
+}
+h1 {
+  margin-bottom: 22px;
+  text-decoration: underline;
+}
+
+h2 {
+  margin-bottom: 22px;
+  text-decoration: underline;
+}
+
+.section1 p {
+  margin-bottom: 22px;
+}
+
+.dogcontainer {
+  margin-bottom: 12px;
+}
+.section2 {
+  margin-top: 12px;
+}
+.section2 img {
+  width: 300px;
+}
+.section3 {
+  margin-top: 12px;
+}
+.listcontainer {
+  padding: 0px 18px;
+}
